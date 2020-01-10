@@ -1,22 +1,15 @@
 ---
 layout: post
-title: Cat Adoption
-subtitle: What Happens To Cats When They're Brought Into Austin Animal Center Shelter?
+title: What Happens To Cats When They're Brought Into Austin Animal Center Shelter?
+subtitle: Will Your Owner Come Back For You?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionDays.png?raw=true)
 
 It can also be centered!
 
