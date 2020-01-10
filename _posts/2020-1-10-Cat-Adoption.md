@@ -11,10 +11,21 @@ comments: true
 
 ![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionDays.png?raw=true){: .center-block :}
 
-It can also be centered!
+![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionMonths.png?raw=true){: .center-block :}
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionYears.png?raw=true){: .center-block :}
 
+![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AgeBins.png?raw=true){: .center-block :}
+
+![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AgeUponOutcomeAdopted.png?raw=true){: .center-block :}
+
+![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/Intake_Adopted.png?raw=true){: .center-block :}
+
+![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/IntakeMonths.png?raw=true){: .center-block :}
+
+![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/OutcomeMonths.png?raw=true){: .center-block :}
+
+![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/OutcomeType.png?raw=true){: .center-block :}
 
 Euthanasia rates
 
