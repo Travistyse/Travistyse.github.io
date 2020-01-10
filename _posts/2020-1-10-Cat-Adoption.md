@@ -11,21 +11,21 @@ comments: true
 
 ![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionDays.png?raw=true){: .center-block :}
 
-![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionMonths.png?raw=true){: .center-block :}
+![Adoptions By Months Of The Year](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionMonths.png?raw=true){: .center-block :}
 
-![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionYears.png?raw=true){: .center-block :}
+![Adoptions By Year](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionYears.png?raw=true){: .center-block :}
 
-![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AgeBins.png?raw=true){: .center-block :}
+![Age Bins](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AgeBins.png?raw=true){: .center-block :}
 
-![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AgeUponOutcomeAdopted.png?raw=true){: .center-block :}
+![Age Upon Outcome](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AgeUponOutcomeAdopted.png?raw=true){: .center-block :}
 
-![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/Intake_Adopted.png?raw=true){: .center-block :}
+![Intake Times For Those Who Were Adopted](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/Intake_Adopted.png?raw=true){: .center-block :}
 
-![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/IntakeMonths.png?raw=true){: .center-block :}
+![Intake Rates By Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/IntakeMonths.png?raw=true){: .center-block :}
 
-![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/OutcomeMonths.png?raw=true){: .center-block :}
+![Outcome Rates By Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/OutcomeMonths.png?raw=true){: .center-block :}
 
-![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/OutcomeType.png?raw=true){: .center-block :}
+![Bar Chart Of Outcome Types](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/OutcomeType.png?raw=true){: .center-block :}
 
 ###Outcome Breakdowns
 
@@ -50,17 +50,17 @@ comments: true
 ###Euthanasia rates
 
 
-Baby:        3.2%
+**Baby:**        3.2%
 
-Kitten:      4.33%
+**Kitten:**      4.33%
 
-Adult:       7.29%
+**Adult:**       7.29%
 
-Older Adult: 7.657%
+**Older Adult:** 7.657%
 
-Midlife:     10.21%
+**Midlife:**     10.21%
 
-Twilight:    18.41%
+**Twilight:**    18.41%
 
 
 So, yeah, there's a pretty strong positive correlation between age and the odds you're gonna be euthanized.
