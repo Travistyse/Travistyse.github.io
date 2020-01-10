@@ -83,3 +83,9 @@ So, yeah, there's a pretty strong positive correlation between age and the odds 
 I just want to take a second to point out that the rates of cat deaths are the same as the amount of cats returned to their owners. What's interesting, however, is that 5.26% of all the cats are euthanized and 1.34% die. Beyond that, 5.35% are returned to their owners and while 46.48% are adopted, 42.46% are transferred out of the facility.
  
 Well, as for the tens that are stolen or "escape", it appears that being 6 months old or younger and a domestic shorthair are the most popular targets, with two Siamese cats being the only "breeds" involved.
+
+View the Notebooks here:
+
+https://github.com/Travistyse/Travistyse.github.io/blob/master/CatAdoption_BuildWk1_TravisFoster.ipynb
+
+https://github.com/Travistyse/Travistyse.github.io/blob/master/Original_Dataset_CatAdoption_BuildWk1_TravisFoster.ipynb
