@@ -27,24 +27,27 @@ comments: true
 
 ![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/OutcomeType.png?raw=true){: .center-block :}
 
-Adoption           21768
-
-Transfer           19885
-
-Return to Owner     2506
-
-Euthanasia          1834
-
-Died                 631
-
-Rto-Adopt            119
-
-Disposal              45
-
-Missing               38
+###Outcome Breakdowns
 
 
-Euthanasia rates
+**Adoptions**          21,768
+
+**Transfers**          19,885
+
+**Return to Owner**    2,506
+
+**Euthanasia**         1,834
+
+**Died**               631
+
+**Rto-Adopt**          119
+
+**Disposals**          45
+
+**Missing**            38
+
+
+###Euthanasia rates
 
 
 Baby:        3.2%
