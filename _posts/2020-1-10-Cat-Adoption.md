@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionDays.png?raw=true)
+![Adoptions By Days Of The Month](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionDays.png?raw=true){: .center-block :}
 
 It can also be centered!
 
