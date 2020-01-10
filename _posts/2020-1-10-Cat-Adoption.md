@@ -15,47 +15,25 @@ It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
 
-Here's a code chunk:
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+Euthanasia rates
 
-And here is the same code with syntax highlighting:
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+Baby:        3.2%
 
-And here is the same code yet again but with line numbers:
+Kitten:      4.33%
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+Adult:       7.29%
 
-## Boxes
-You can add notification, warning and error boxes like this:
+Older Adult: 7.657%
 
-### Notification
+Midlife:     10.21%
 
-{: .box-note}
-**Note:** This is a notification box.
+Twilight:    18.41%
 
-### Warning
 
-{: .box-warning}
-**Warning:** This is a warning box.
+So, yeah, there's a pretty strong positive correlation between age and the odds you're gonna be euthanized.
 
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+ "I just want to take a second to point out that you're more likely to die before your owner actually comes for you. That's a "big oof". What's interesting, however, is that 5% of all the cats are euthanized and 1.36% die. Beyond that, 5% are returned to their owners and while 43% are adopted, 45.2% are transferred out of the facility."
+ 
+Well, as for the ones that are stolen or "escape", it appears that being 6 months old or younger and a domestic shorthair are the most popular targets, with two Siamese cats being the only "breeds" involved.
