@@ -27,7 +27,7 @@ comments: true
 
 ![Bar Chart Of Outcome Types](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/OutcomeType.png?raw=true){: .center-block :}
 
-##Outcome Breakdowns
+## Outcome Breakdowns
 
 
 **Adoptions**          21,768
@@ -47,7 +47,7 @@ comments: true
 **Missing**            38
 
 
-##Euthanasia rates
+## Euthanasia rates
 
 
 **Baby:**        3.2%
