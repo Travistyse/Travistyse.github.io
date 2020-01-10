@@ -15,6 +15,8 @@ It appears that cat adoption rates increase as the month goes on - perhaps peopl
 
 ![Adoptions By Months Of The Year](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionMonths.png?raw=true){: .center-block :}
 
+There appears to be a small spike in the month of January, a lull between February and April, and then a massive spike starting with May and leading to June / July / August having 
+
 ![Adoptions By Year](https://github.com/Travistyse/Travistyse.github.io/blob/master/img/AdoptionYears.png?raw=true){: .center-block :}
 
 The number of adoptions per year are increasing steadily - this could be due to larger populations of either humans or cats but it's still good to see.
