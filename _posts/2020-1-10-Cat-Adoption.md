@@ -86,6 +86,5 @@ Well, as for the tens that are stolen or "escape", it appears that being 6 month
 
 View the Notebooks here:
 
-https://github.com/Travistyse/Travistyse.github.io/blob/master/CatAdoption_BuildWk1_TravisFoster.ipynb
-
-https://github.com/Travistyse/Travistyse.github.io/blob/master/Original_Dataset_CatAdoption_BuildWk1_TravisFoster.ipynb
+[First Notebook](https://github.com/Travistyse/Travistyse.github.io/blob/master/CatAdoption_BuildWk1_TravisFoster.ipynb)
+[Second Notebook](https://github.com/Travistyse/Travistyse.github.io/blob/master/Original_Dataset_CatAdoption_BuildWk1_TravisFoster.ipynb)
