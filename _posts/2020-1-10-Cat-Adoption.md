@@ -62,6 +62,6 @@ Twilight:    18.41%
 
 So, yeah, there's a pretty strong positive correlation between age and the odds you're gonna be euthanized.
 
- "I just want to take a second to point out that you're more likely to die before your owner actually comes for you. That's a "big oof". What's interesting, however, is that 5% of all the cats are euthanized and 1.36% die. Beyond that, 5% are returned to their owners and while 43% are adopted, 45.2% are transferred out of the facility."
+I just want to take a second to point out that the rates of cat deaths are the same as the amount of cats returned to their owners. What's interesting, however, is that 5.26% of all the cats are euthanized and 1.34% die. Beyond that, 5.35% are returned to their owners and while 46.48% are adopted, 42.46% are transferred out of the facility.
  
-Well, as for the ones that are stolen or "escape", it appears that being 6 months old or younger and a domestic shorthair are the most popular targets, with two Siamese cats being the only "breeds" involved.
+Well, as for the tens that are stolen or "escape", it appears that being 6 months old or younger and a domestic shorthair are the most popular targets, with two Siamese cats being the only "breeds" involved.
